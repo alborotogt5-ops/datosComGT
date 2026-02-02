@@ -53,7 +53,7 @@ Este proyecto surge desde el contexto de la comunicación digital en Guatemala, 
 ---
 
 ## Autor
-**[Tu nombre completo]**  
+Jonathan Batres  
 Área: Comunicación y medios digitales  
 País: Guatemala
 
